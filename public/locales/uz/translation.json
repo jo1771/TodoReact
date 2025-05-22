@@ -1,0 +1,19 @@
+{
+	"title": "Eslatmalar",
+	"allNotes": "Barcha eslatmalar",
+	"noNotes": "Eslatmalar yo'q",
+	"edit": "O'ZGARTIRISH",
+	"del": "o'chirish",
+	"list": "Roʻyxat",
+	"grid": "Setka",
+	"addNote": "Eslatma qo’shish",
+	"editNote": "Eslatmani tahrirlash",
+	"cancel": "Bekor qilish",
+	"add": "Qo’shish",
+	"changeNote": "o'zgartirish",
+	"search": "Qidirish",
+	"delNote": "Eslatma o'chirildi",
+	"noteWasEdit": "Eslatma o'zgartirildi",
+	"noteWasAdd": "Eslatma qo'shildi",
+	"error": "Maydonlar kamida 3 ta belgidan iborat boʻlishi kerak"
+}
